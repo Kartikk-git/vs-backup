@@ -1,0 +1,10 @@
+even
+wap in cpp to demo run time polymorphism
+wap to demo the use of dynamic constructor
+wap to for specifying an exception
+
+
+odd
+wap to use the class where the member fns are define into the class
+wap to demo static data member and static member fn
+wap to demo virtual derivstion of class
