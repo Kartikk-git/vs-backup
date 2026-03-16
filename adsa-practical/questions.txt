@@ -1,0 +1,12 @@
+wap to implement all operations on doubly linked list 
+wap to implement all operations on stack using array
+
+wap to implement all operations on a queue using linked list 
+wap to implement all operations on circular linked list
+
+wap to implement binary search tree
+wap to implement bubble sort
+
+wap to implement merge sort
+wap to implement recursive program for bfs
+
